@@ -9,6 +9,7 @@ const Layout = ({ children }) => {
   const navigation = [
     { name: 'LED Control', href: '/', icon: '💡' },
     { name: 'Speaker Control', href: '/speaker', icon: '🔊' },
+    { name: 'LCD Control', href: '/lcd', icon: '🖥️' },
     { name: 'Firebase Status', href: '/status', icon: '🔧' },
   ];
 
